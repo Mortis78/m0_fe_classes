@@ -23,16 +23,16 @@ console.log(firstUnicorn.say("Feed me"));
 // // it should have a pet property, that is a bat, by default BUT it could be dynamic if info is passed in initially
 // // it should have a thirsty property, that is true by default
 // // // it should have a drink method. When called, the thirsty property changes to false
-// var vlad = new (vampier)
-//
-// class Vampire {
-//   constructor("bat");
-//     this.name = vlad,
-//     this.pet = ("bat") ;
-//     this.thersty = true;
-//     this.therst = false
-//
-//     }
+var vlad = new (vampier)
+
+class Vampire {
+  constructor("bat");
+    this.name = vlad,
+    this.pet = ("bat") ;
+    this.thersty = true;
+    this.therst = false
+
+    }
 
 
 //  Write a Dragon class
